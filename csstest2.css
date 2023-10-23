@@ -1,0 +1,11 @@
+.b1 {
+    padding: 10px;
+    background-color:aquamarine;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.b2 {
+    padding: 10px;
+    font-weight: bold;
+}
